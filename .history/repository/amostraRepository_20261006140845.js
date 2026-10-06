@@ -1,0 +1,3 @@
+const amostras = []
+
+export func
